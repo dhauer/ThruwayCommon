@@ -1,5 +1,5 @@
 {
-    "name": "voryx/thruway-common",
+    "name": "dhauer/thruway-common",
     "type": "library",
     "description": "WAMP2 Common Library for Thruway",
     "keywords": [
